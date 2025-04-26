@@ -1,0 +1,14 @@
+Packages:
+
+pandas
+matplotlib
+seaborn
+openpyxl
+
+
+Package                         Why you need it
+
+pandas	                        For reading Excel files and handling data
+matplotlib	                For plotting graphs and charts
+seaborn	                        For creating beautiful visualizations
+openpyxl	                To help Pandas read .xlsx Excel files
