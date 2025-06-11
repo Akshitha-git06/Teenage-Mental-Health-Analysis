@@ -107,7 +107,9 @@ Through this analysis, I applied real-world data analysis skills, crafted compel
 **Thank you for visiting and reviewing my work! **
 
 **Contact**
-GitHub: Akshitha-git06
-LinkedIn: www.linkedin.com/in/akshitha-thatla-755832260
+
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+
+[Github](https://github.com/Akshitha-git06)
 
 
