@@ -108,7 +108,7 @@ Through this analysis, I applied real-world data analysis skills, crafted compel
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
 
